@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherwynd</h1>
-<h3 align="center">Im a student from Quang Tri Gifted High School, VietNam. Interested in IT, I create this accout to learn new things.</h3>
+<h3 align="center">Im a student from Quang Tri Gifted High School, VietNam. Interested in IT, I create this account to learn new things.</h3>
 
 - 🔭 I’m currently working on **Quang Tri Gifted High School**
 
