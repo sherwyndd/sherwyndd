@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Quang Tri Gifted High School**
 
-- 🌱 I’m currently learning **Basics of IT such as Database, Networking, Software, Hardware, ect.**
+- 🌱 I’m currently learning **Basics of IT such as Database, Networking, Software, Hardware, etc.**
 
 - 💬 Ask me about **Data Structure & Algorithm**
 
