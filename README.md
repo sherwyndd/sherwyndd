@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Phong, you can call me Sherwynd</h1>
+<h1 align="center">Hi 👋, I'm Sherwynd</h1>
 <h3 align="center">Im a student from University of Information Technology VNU-HCM, VietNam. Interested in IT, I create this account to learn new things.</h3>
 
 - 🔭 I’m currently studying  at  **University of Information Technology VNU-HCM**
