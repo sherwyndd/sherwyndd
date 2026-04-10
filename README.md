@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently studying  at  **University of Information Technology VNU-HCM**
 
-- 🌱 I’m currently learning **Basics of IT such as Database, Networking, Software, AI, etc.**
-
-- 💬 Ask me about **Data Structure & Algorithm**
+- 🌱 I’m currently learning **Computer Science, Particulary AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
